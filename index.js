@@ -10,7 +10,7 @@ var MONGO_CONN_DB = "Burclarbozki";
 var MONGO_CONN_AUTH = "authSource=admin";
 
 var MONGO_CONN_URL =
-    "mongodb+srv://bozkitoski_admin:rZTVYHSDDbngOcnL@burclarbozki.lof87jj.mongodb.net/?retryWrites=true&w=majority";
+    "mongodb+srv://****:*****@*****.lof87jj.mongodb.net/?retryWrites=true&w=majority";
 
 var url = MONGO_CONN_URL;
 
