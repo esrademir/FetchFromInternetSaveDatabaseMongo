@@ -2,11 +2,11 @@ var MongoClient = require('mongodb').MongoClient;
 
 
 
-var MONGO_CONN_USERNAME = "bozkitoski_admin";
-var MONGO_CONN_PASS = "rZTVYHSDDbngOcnL";
+var MONGO_CONN_USERNAME = "*****";
+var MONGO_CONN_PASS = "******";
 var MONGO_CONN_IP = "192.168.0.101";
 var MONGO_CONN_PORT = "27017";
-var MONGO_CONN_DB = "Burclarbozki";
+var MONGO_CONN_DB = "*****";
 var MONGO_CONN_AUTH = "authSource=admin";
 
 var MONGO_CONN_URL =
